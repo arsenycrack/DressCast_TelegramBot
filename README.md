@@ -73,9 +73,3 @@ dresscast-telegram-bot/
 Arseny Crack
 📧 arseny.crack@yandex.ru 
 🔗 [GitHub Profile](https://github.com/arsenycrack)
-
----
-
-### 📜 Лицензия
-
-MIT License — используй как хочешь 😊

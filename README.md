@@ -32,6 +32,7 @@
 - Python 3.8+
 - `aiogram` — для работы с Telegram API
 - `requests` — для запросов к погодному API
+- `logging` - логгирование
 - `weatherapi.com` — источник данных о погоде
 
 ---

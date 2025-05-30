@@ -15,11 +15,11 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 # API ключи
-WEATHER_API_KEY = "6c2f8091a2af44519de150451250505"
+WEATHER_API_KEY = "ТОКЕН_СКРЫТ_ПО_ПРЕДОСТАВЛЕНИЮ_АВТОРА"
 WEATHER_URL = "https://api.weatherapi.com/v1/current.json" 
 
 # Инициализация бота с дефолтными настройками
-bot = Bot(token="7594837762:AAH-So9wbaYcTjv0dEnMHGOk-7VDttXhV7A",default=DefaultBotProperties(parse_mode=ParseMode.HTML))
+bot = Bot(token="ТОКЕН_СКРЫТ_ПО_ПРЕДОСТАВЛЕНИЮ_АВТОРА",default=DefaultBotProperties(parse_mode=ParseMode.HTML))
 dp = Dispatcher()
 
 # Функция получения совета по одежде
